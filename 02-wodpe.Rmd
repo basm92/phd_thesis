@@ -1,0 +1,9 @@
+# The Wealth of the Dutch Political Elite {#wodpe}
+
+Here comes paper 1: the Wealth of the Dutch Political Elite. 
+
+To do: 
+
+- Find how footnotes work.
+
+- Find how citations with bibtex work. 

@@ -1,0 +1,20 @@
+--- 
+title: "A To Be Determined Title of Bas's PhD Thesis"
+author: "Bas Machielsen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# Preface
+
+This is a to be written preface to Bas's future PhD thesis, which is also available in .pdf and .epub (add links in the future) formats by clicking the download button below. The .pdf version is an exact copy of the paper version. 
+
+I have created this page in part to facilitate the access to my work, in part to learn how to work properly with `R`'s `bookdown` package, and in part because of environmental reasons. Many people prefer to read online anyway. 
+
+I put in a lot of acknowledgements in my preface, but I also want to make a point about open access, transparency, reproducibility, and a clean workflow as vital elements to a PhD trajectory. 
+
